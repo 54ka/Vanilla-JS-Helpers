@@ -2,6 +2,14 @@
 
 ![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Icon_Over_Image/Screenshot.jpg)
 
+# Featured
+
+* Globally or for a selected wrap only
+* Icon position
+* Filter only for photos over a certain size
+* Icon click event
+* Image click event
+
 # Customize settings
 
 ```js
@@ -11,7 +19,7 @@ const ioi_Settings = {
     // To select images only in a specific item select by class or ID // .wrap / #wrap
     wrapElement: 'body',
 
-    // Icon positio
+    // Icon position
     // left-top / right-top / left-bottom / right-bottom / center-center
     position: 'left-bottom',
 
