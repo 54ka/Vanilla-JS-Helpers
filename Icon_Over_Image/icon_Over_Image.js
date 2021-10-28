@@ -8,7 +8,7 @@ const ioi_Settings = {
     // To select images only in a specific item select by class or ID // .wrap / #wrap
     wrapElement: 'body',
 
-    // Icon positio
+    // Icon position
     // left-top / right-top / left-bottom / right-bottom / center-center
     position: 'left-bottom',
 
