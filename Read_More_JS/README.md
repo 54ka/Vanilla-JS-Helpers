@@ -5,7 +5,7 @@
 # Featured
 
 * Number of letters
-* Change this text
+* Custom "Read more" text
 * Custom class name selector
 
 # Description
