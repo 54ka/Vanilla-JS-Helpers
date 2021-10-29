@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>SVG Clock</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <style>
+        body {
+            background: #161c23;
+        }
+
+        div {
+            width: 70%;
+            margin: auto;
+        }
+    </style>
+
+</head>
+<body>
+
+
+    <div id="clockTokyo"></div>
+    <div id="clockSofia"></div>
+    <div id="clockNewYork"></div>
+
+
+    <script src="clockSVG.js"></script>
+    <script>
+        svgClock("clockTokyo", "1a2026", "777973", "Asia/Tokyo");
+        svgClock("clockSofia", "1f1d1f", "c73100", "Europe/Sofia");
+        svgClock("clockNewYork", "132328", "00a084", "America/New_York");
+    </script>
+
+</body>
+</html>
