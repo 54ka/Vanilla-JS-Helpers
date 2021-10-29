@@ -5,3 +5,7 @@
 # Clock SVG
 
 ![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Clock_SVG/Screenshot.jpg)
+
+# Read More JS
+
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Read_More_JS/Screenshot.gif)
