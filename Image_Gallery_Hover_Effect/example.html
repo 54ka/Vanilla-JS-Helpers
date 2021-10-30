@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery Hover Effect</title>
+
+    <style>
+        #myGallery img {
+            margin: 30px;
+
+            -webkit-transition: 400ms ease 100ms;
+            -moz-transition: 400ms ease 100ms;
+            transition: 400ms ease 100ms;
+        }
+
+        .effect {
+            -webkit-filter: blur(3px) grayscale(1);
+            -moz-filter: blur(3px) grayscale(1);
+            filter: blur(3px) grayscale(1);
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id='myGallery'>
+        <img src="images/001.jpg">
+        <img src="images/002.jpg">
+        <img src="images/003.jpg">
+        <br>
+        <img src="images/004.jpg">
+        <img src="images/005.jpg">
+        <img src="images/006.jpg">
+    </div>
+
+    <script src="./imgGalleryHoverEffect.js"></script>
+
+</body>
+</html>
