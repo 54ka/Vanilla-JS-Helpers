@@ -1,6 +1,6 @@
 # Image Gallery Hover Effect by 54ka
 
-![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Read_More_JS/Screenshot.gif)
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Image_Gallery_Hover_Effect/Screenshot.gif)
 
 # Featured
 
