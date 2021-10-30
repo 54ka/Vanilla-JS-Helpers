@@ -9,3 +9,7 @@
 # Read More JS
 
 ![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Read_More_JS/Screenshot.gif)
+
+# Image Gallery Hover Effect
+
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Image_Gallery_Hover_Effect/Screenshot.gif)
