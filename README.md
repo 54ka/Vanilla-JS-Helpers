@@ -13,3 +13,6 @@
 # Image Gallery Hover Effect
 
 ![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Image_Gallery_Hover_Effect/Screenshot.gif)
+
+# Merge DIVs Calendar
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Merge_DIVs_Calendar/Screenshot.jpg)
