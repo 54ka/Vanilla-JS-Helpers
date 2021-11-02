@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merge DIVs Calendar</title>
+</head>
+<body>
+
+    <!-- CALENDAR 1 -->
+    <div class="calendar_01">
+        <div>1</div>
+        <div class="mrg">2</div>
+        <div>3</div>
+        <div>4</div>
+        <div class="mrg">5</div>
+        <div class="mrg">6</div>
+        <div>7</div>
+        <div class="mrg">8</div>
+        <div>9</div>
+        <div>10</div>
+        <div class="mrg">11</div>
+        <div class="mrg">12</div>
+        <div>13</div>
+        <div class="mrg">14</div>
+        <div class="mrg">15</div>
+        <div>16</div>
+        <div>17</div>
+        <div class="mrg">18</div>
+        <div>19</div>
+        <div class="mrg">20</div>
+        <div class="mrg">21</div>
+        <div>22</div>
+        <div>23</div>
+        <div class="mrg">24</div>
+        <div>25</div>
+        <div class="mrg">26</div>
+        <div class="mrg">27</div>
+        <div class="mrg">28</div>
+        <div class="mrg">29</div>
+        <div class="mrg">30</div>
+        <div>31</div>
+    </div>
+
+    <br>
+    <br>
+
+    <!-- CALENDAR 2 -->
+    <div class="calendar_02">
+        <div class="mrg">1</div>
+        <div class="mrg">2</div>
+        <div>3</div>
+        <div>4</div>
+        <div class="mrg">5</div>
+        <div class="mrg">6</div>
+        <div class="mrg">7</div>
+        <div class="mrg">8</div>
+        <div>9</div>
+        <div>10</div>
+        <div class="mrg">11</div>
+        <div class="mrg">12</div>
+        <div>13</div>
+        <div class="mrg">14</div>
+        <div class="mrg">15</div>
+        <div class="mrg">16</div>
+        <div>17</div>
+        <div class="mrg">18</div>
+        <div>19</div>
+        <div class="mrg">20</div>
+        <div class="mrg">21</div>
+        <div>22</div>
+        <div>23</div>
+        <div class="mrg">24</div>
+        <div>25</div>
+        <div>26</div>
+        <div>27</div>
+        <div>28</div>
+        <div class="mrg">29</div>
+        <div class="mrg">30</div>
+        <div>31</div>
+    </div>
+
+    <script>
+        var mergeDIVsSettings = [
+            {
+                wrap_element: '.calendar_01',
+                active_class: 'mrg',
+
+                rows_columns_size: '50px',
+                margin: '5px',
+                border_radius: '20px',
+                font_size: '16px',
+                line_height: '39px',
+
+                inactive_border: '1px solid #ccc',
+                inactive_background: 'burlywood',
+                inactive_text_color: '#ffffff',
+
+                active_background: 'brown',
+                active_text_color: 'burlywood',
+            },
+            {
+                wrap_element: '.calendar_02',
+                active_class: 'mrg',
+
+                rows_columns_size: '50px',
+                margin: '5px',
+                border_radius: '3px',
+                font_size: '16px',
+                line_height: '39px',
+
+                inactive_border: '0px solid #ccc',
+                inactive_background: '#ebebeb',
+                inactive_text_color: '#bcbcbc',
+
+                active_background: 'teal',
+                active_text_color: '#ffffff',
+            },
+        ];
+    </script>
+
+    <script src="./merge-DIVs-Calendar.js"></script>
+
+
+
+</body>
+</html>
