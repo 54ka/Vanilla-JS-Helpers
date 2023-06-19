@@ -8,7 +8,7 @@
 * Random colors or Fixed color
 * Color brightness settings - minimal and maximal values
 
-# Customize settings optiion 1
+# Customize settings option 1
 
 ```js
 
@@ -34,7 +34,7 @@ ffkaScatterBubles(ffkaScatterBubbles);
 
 ```
 
-# Customize settings optiion 2 (Responsive)
+# Customize settings option 2 (Responsive)
 
 ```js
 
