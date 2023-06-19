@@ -16,3 +16,6 @@
 
 # Merge DIVs Calendar
 ![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Merge_DIVs_Calendar/Screenshot.jpg)
+
+# Scatter Bubbles
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Scatter-Bubbles/Screenshot.jpg)
