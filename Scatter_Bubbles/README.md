@@ -1,6 +1,6 @@
-# Clock SVG by 54ka
+# Scatter Bubbles by 54ka
 
-![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Scatter-Bubbles/Screenshot.jpg)
+![Image](https://github.com/54ka/Vanilla-JS-Helpers/blob/main/Scatter_Bubbles/Screenshot.jpg)
 
 # Featured
 
